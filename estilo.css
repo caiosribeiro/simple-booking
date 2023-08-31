@@ -1,0 +1,198 @@
+/*--------------GERAL------------*/
+body{
+	background: whitesmoke;
+}
+
+h1{
+	margin-top: 50%;
+	color: #3e2753;
+	margin-bottom: 5%;
+}
+
+.circulo{
+	border: 1px solid white;
+	border-radius: 50%;
+	color: #e942ff;
+	padding-right: 2%;
+	margin-right: 4%;
+}
+
+.money{
+	font-size: 18px;
+	font-weight: 700;
+	color: white;
+}
+
+.msgMoney{
+	font-weight: 200;
+	color: white;
+	width: 70%;
+	background: linear-gradient(to right ,#e942ff 0%, #8838ff 100%);
+	margin-left: 2%;
+	border-radius: 12px;
+	border-bottom-left-radius: 5px;
+}
+
+.msgDireita{
+	border-radius: 12px;
+	border-bottom-right-radius: 5px;
+	color: #6e5d7e;
+	background: white;
+}
+
+.msgEsquerda{
+	margin-left: 2%;
+	border-radius: 12px;
+	border-bottom-left-radius: 5px;
+	width: 50%;
+	background: #e8d7f4;
+	color: #9241c8;
+}
+
+.msg{
+	margin-top: 2%;
+	padding: 2%;
+	font-size: 11px;
+}
+
+.msg img{
+	border-radius: 7px;
+}
+
+#ladoDireito{
+	padding-left: 8%;
+}
+
+#ladoDireito p{
+	color: #c6cacd;
+}
+
+#mensagem{
+	width: 90%;
+	background: white;
+	padding-top: 5%;
+	padding-bottom: 1%;
+	margin-top: 8%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#seta{
+	border-radius: 50%;
+	position: relative;
+	bottom: 15px;
+	margin-left: 90%;
+	color: white;
+	padding: 2%;
+	padding-left: 3%;
+	padding-right: 3%;
+	background: #3e2753;
+}
+
+#setinha{
+	position: relative;
+	top: 16px;
+	right: 10px;
+	color: white;
+}
+
+#pontos{
+	position: relative;
+	top: 18px;
+	color: white;
+
+}
+
+#escrita{
+	padding-left: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: 	#c6cacd;
+}
+
+#money1{
+	padding-left: 33%;
+}
+
+#money2{
+	padding-left: 40%;
+}
+
+#msgDireita1{
+	position: relative;
+	left: 165px;
+}
+
+#msgDireita2{
+	width: 50%;
+	position: relative;
+	left: 155px;
+}
+
+#msgDireita3{
+	width: 32%;
+	position: relative;
+	left: 215px;
+}
+
+#detalhe{
+	height: 800px;
+	width: 80%;
+	border-bottom-left-radius: 50%;
+	border-bottom-right-radius: 50%;
+	background: linear-gradient(#e942ff, #8838ff);
+	margin-left: -20%;
+}
+
+#cel{
+	position: absolute;
+	width: 50%;
+	top: 120px;
+	left: 300px;
+	border: 10px solid #ffffff;
+	border-radius: 6%;
+	background: #f5f3f7;
+}
+
+#acima{
+	padding-bottom: 5%;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background: linear-gradient(to left ,#e942ff 0%, #8838ff 100%);
+}
+
+#detalheAcima{
+	position: absolute;
+	top: -10px;
+	left: 90px;
+	width: 50%;
+	height: 30px;
+	background: #ffffff;
+	border-radius: 25px;
+}
+
+#avatar{
+	position: relative;
+	top: 17px;
+	right: 5px;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+
+#nome{
+	position: relative;
+	top: 10px;
+	bottom: 7px;
+	color: white;
+}
+
+#descricao{
+	font-size: 11px;
+	position: relative;
+	right: 103px;
+	top: 25px;
+	color: #c6cacd;
+}
